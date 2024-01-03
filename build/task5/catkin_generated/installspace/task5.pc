@@ -1,0 +1,8 @@
+prefix=/home/woodq/Desktop/ros_ws/install
+
+Name: task5
+Description: Description of task5
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs
